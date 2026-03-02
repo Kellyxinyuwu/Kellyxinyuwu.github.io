@@ -6,7 +6,7 @@ A frontend website for HKU BrainSTEM Scientific — a peer-reviewed student rese
 
 **https://kellyxinyuwu.github.io/**
 
-> Note: The cloud (campaign) has been deactivated after the campaign, so it is not shown on the live site now.
+> Note: The cloud has been deactivated after the campaign, so it is not shown on the site now.
 
 ## Tech Stack
 
